@@ -1,3 +1,3 @@
 # Shereen
 
-Website for Dr. Shreen Atef
+Website source code of Dr. Shereen Atef's portfolio
